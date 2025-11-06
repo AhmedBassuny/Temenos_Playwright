@@ -1,0 +1,14 @@
+mnemonic (must be capital letters and unique)
+sector
+gender
+title
+gb full name
+gb short name
+given name
+190338 
+
+
+
+login block -> create customer block -> auth customer block -> current account -> auth account -> sign off
+
+login block -> create customer block -> auth customer block -> saving account -> auth account -> sign off
